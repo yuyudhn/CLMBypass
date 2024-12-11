@@ -1,0 +1,9 @@
+C:\OSEP-Tools\DefenderCheck\CLMBypass\clmbypass\bin\Release\clmbypass.exe.config
+C:\OSEP-Tools\DefenderCheck\CLMBypass\clmbypass\bin\Release\clmbypass.exe
+C:\OSEP-Tools\DefenderCheck\CLMBypass\clmbypass\bin\Release\clmbypass.pdb
+C:\OSEP-Tools\DefenderCheck\CLMBypass\clmbypass\bin\Release\System.Management.Automation.dll
+C:\OSEP-Tools\DefenderCheck\CLMBypass\clmbypass\obj\Release\clmbypass.csproj.AssemblyReference.cache
+C:\OSEP-Tools\DefenderCheck\CLMBypass\clmbypass\obj\Release\clmbypass.csproj.CoreCompileInputs.cache
+C:\OSEP-Tools\DefenderCheck\CLMBypass\clmbypass\obj\Release\clmbypass.csproj.Up2Date
+C:\OSEP-Tools\DefenderCheck\CLMBypass\clmbypass\obj\Release\clmbypass.exe
+C:\OSEP-Tools\DefenderCheck\CLMBypass\clmbypass\obj\Release\clmbypass.pdb
